@@ -146,7 +146,7 @@ the flowgraph and then execute it.
 
 - Replace the *Add* block with a [Multiply](https://wiki.gnuradio.org/index.php/Multiply) block. What output do you expect from the product of two sinusoids? Confirm your result on the Scope and FFT displays.
 
-{% include alert.html title="Note" content="The other math operations under the *Math Operators* category and experiment with a few to see if the result is as expected." %}
+{% include alert.html title="Note" content="The other math operations are under the *Math Operators* category. Experiment with a few of them to see if the result is as expected." %}
 
 ## Filters
 
